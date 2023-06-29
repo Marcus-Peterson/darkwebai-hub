@@ -1,6 +1,6 @@
 # DarkWebAI-Hub
 
-
+![botlogo](https://github.com/Marcus-Peterson/darkwebai-hub/assets/73422974/a94b63f5-f398-4e05-82a9-65728b2344f8)
 
 
 Welcome to the offical Github repository of the DarkWebAI-Hub based of the mastodon source code, a platform dedicated to the free distribution and collaboration of AI source code. Our community believes in the power of open and decentralized information, and the importance of AI belonging to the people.
