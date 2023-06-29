@@ -4,7 +4,7 @@
 
 
 
-Welcome to the offical Github repository of the DarkWebAI-Hub, a platform dedicated to the free distribution and collaboration of AI source code. Our community believes in the power of open and decentralized information, and the importance of AI belonging to the people.
+Welcome to the offical Github repository of the DarkWebAI-Hub based of the mastodon source code, a platform dedicated to the free distribution and collaboration of AI source code. Our community believes in the power of open and decentralized information, and the importance of AI belonging to the people.
 
 ## Our Mission
 
