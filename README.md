@@ -1,6 +1,7 @@
 # DarkWebAI-Hub
 
-<img src="![marcus_peterson_vector_logo_of_a_bot_that_gives_news_logo_vecto_afb4da58-89a9-4cb5-b885-a59cf3dbc449](https://github.com/Marcus-Peterson/darkwebai-hub/assets/73422974/9f26f31d-b569-4af5-b4f7-5277c47da97c)" alt="DarkWebAI Logo" width="200"/>
+<img src="![marcus_peterson_vector_logo_of_a_bot_that_gives_news_logo_vecto_afb4da58-89a9-4cb5-b885-a59cf3dbc449](https://github.com/Marcus-Peterson/darkwebai-hub/assets/73422974/fa7ffe04-d4e9-45db-86c6-90878d959872)
+" alt="DarkWebAI Logo" width="200"/>
 
 
 
