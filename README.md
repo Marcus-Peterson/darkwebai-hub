@@ -45,7 +45,7 @@ Become a part of this vibrant community and join us in our mission to keep AI op
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](#) for details.
+This project is licensed under the AGPL 3.0
 
 ## Acknowledgments
 
