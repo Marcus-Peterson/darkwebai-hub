@@ -1,6 +1,7 @@
 # DarkWebAI-Hub
 
-![DarkWebAI Logo](![marcus_peterson_vector_logo_of_a_bot_that_gives_news_logo_vecto_afb4da58-89a9-4cb5-b885-a59cf3dbc449](https://github.com/Marcus-Peterson/darkwebai-hub/assets/73422974/d5fb8246-82a6-4749-a8e7-d89e33ddbfdf))
+![marcus_peterson_vector_logo_of_a_bot_that_gives_news_logo_vecto_afb4da58-89a9-4cb5-b885-a59cf3dbc449](https://github.com/Marcus-Peterson/darkwebai-hub/assets/73422974/9f26f31d-b569-4af5-b4f7-5277c47da97c)
+
 
 
 Welcome to the offical Github repository of the DarkWebAI-Hub, a platform dedicated to the free distribution and collaboration of AI source code. Our community believes in the power of open and decentralized information, and the importance of AI belonging to the people.
@@ -30,9 +31,8 @@ As highlighted in the [AI belongs to the people, not governments and corporation
 We welcome all contributions to DarkWebAI-Hub. Whether it’s improving the platform, sharing code, or engaging in discussions, every contribution matters.
 
 ## Join Us
+![deal](https://github.com/Marcus-Peterson/darkwebai-hub/assets/73422974/f6b303ff-f09b-469c-8a7f-439294e85682)
 
-![Join Us](![image](![deal](https://github.com/Marcus-Peterson/darkwebai-hub/assets/73422974/04a2e3be-6014-43c2-9b6c-040f060099e5)
-)
 
 Become a part of this vibrant community and join us in our mission to keep AI open and free. Let’s create a world where AI belongs to the people.
 
